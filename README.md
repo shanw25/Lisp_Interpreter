@@ -41,6 +41,7 @@ Open the cloned project in your preferred Integrated Development Environment (ID
 ## Step 3: Run the Interpreter
 
 1, Locate index.java in the project structure.
+
 2, Run index.java using your IDE's built-in run function.
 
 # How to Use
