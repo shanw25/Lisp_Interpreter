@@ -1,0 +1,2 @@
+Id,Prediction,Date,File,StartTime,ElapsedTime,BusyTime,Commands,editOrInsertPercentage,debugPercentage,navigationPercentage,focusPercentage,removePercentage,editPercentage,COMMAND_RATE,NAVIGATION_RATE,DEBUG_RATE,FOCUS_RATE,EDIT_RATE,REMOVE_RATE,INSERT_RATE,webLinkTimes,Web Page Visits
+18,,Thu Dec 07 20:23:24 EST 2023,ClassRegistryImpl.java,1701998604149,2400439,0,(F)13,0.0,0.0,0.0,100.0,0.0,0.0,0.005416666666666667,0.0,0.0,0.005416666666666667,0.0,0.0,0.0,0.0,[]

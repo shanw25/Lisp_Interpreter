@@ -1,0 +1,5 @@
+<Events startTimestamp="1701989633096" logVersion="1.0.0.202308221630">
+  <Command __id="3" _type="EclipseCommand" commandID="" date="Thu Dec 07 17:53:53 EST 2023" starttimestamp="1701989633096" timestamp="397" />
+  <Command __id="4" _type="ShellCommand" date="Thu Dec 07 17:53:54 EST 2023" starttimestamp="1701989633096" timestamp="1628" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="6" _type="ShellCommand" date="Thu Dec 07 17:54:04 EST 2023" starttimestamp="1701989633096" timestamp="11230" type="ECLIPSE_CLOSED" />
+</Events>
