@@ -38,10 +38,10 @@ git clone https://github.com/shanw25/Lisp_Interpreter.git
 
 Open the cloned project in your preferred Integrated Development Environment (IDE) that supports Java. The project was developed using Java 11, so it is recommended to use the same JDK version to avoid compatibility issues.
 
-## Step 3: Run!
+## Step 3: Run the Interpreter
 
-Locate index.java in the project structure.
-Run index.java using your IDE's built-in run function.
+1, Locate index.java in the project structure.
+2, Run index.java using your IDE's built-in run function.
 
 # How to Use
 
